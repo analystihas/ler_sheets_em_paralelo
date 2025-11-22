@@ -36,8 +36,11 @@ Ideal para estudos, automação e testes de benchmarks com APIs do Google.
 
 # 🚀 **Guia Rápido (Fast Track)**
 
-### **0. Instalar dependências**
-
+### **0. Clonar Repo e Instalar dependências**
+```bash
+git clone https://github.com/analystihas/ler_sheets_em_paralelo.git
+cd ler_sheets_em_paralelo
+```
 ```bash
 uv sync
 ```
