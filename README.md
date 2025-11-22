@@ -51,7 +51,13 @@ uv sync
 uv run src/gerar_tabelas.py --tabelas 48 --linhas 1500 --destino data
 ```
 
-### **2. Converter CSVs → Google Sheets e enviar ao Drive**
+
+### **2. Converter CSVs → Google Sheets e enviar para o Drive**
+
+⚠️ **ATENÇÃO!**
+Para executar as próximas etapas, você **precisa** configurar as variáveis de ambiente no arquivo `.env` **e** ajustar corretamente as permissões no **Google Cloud Console**.
+Leia as instruções antes de prosseguir.
+
 
 ```bash
 uv run src/enviar_para_pasta_no_drive.py
