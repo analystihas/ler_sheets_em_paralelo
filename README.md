@@ -18,9 +18,7 @@
 - [🔧 Parâmetros dos Scripts](#-parâmetros-dos-scripts)
 - [🧩 Arquitetura do Projeto](#-arquitetura-do-projeto)
 - [📌 Licença](#-licença)
-```
 
----
 
 # 📄 **Leitura de Múltiplos Google Sheets em Python**
 
@@ -35,8 +33,6 @@ Este projeto demonstra como:
 * ⚡ **Comparar leitura sequencial vs paralela** para medir performance
 
 Ideal para estudos, automação e testes de benchmarks com APIs do Google.
-
----
 
 # 🚀 **Guia Rápido (Fast Track)**
 
