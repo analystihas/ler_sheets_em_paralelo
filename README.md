@@ -1,14 +1,7 @@
-```md
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=origin&text1=Leitura%20de%20Múltiplos%20Google%20Sheets%20📄&text2=Python%20•%20Drive%20API%20•%20Paralelismo" width="100%" />
 </p>
-```
 
----
-
-# 📚 **Sumário**
-
-```md
 ## 📚 Sumário
 
 - [📄 Leitura de Múltiplos Google Sheets em Python](#-leitura-de-múltiplos-google-sheets-em-python)
