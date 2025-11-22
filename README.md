@@ -28,8 +28,8 @@ uv run src/listar_planilhas.py
 
 Notebook para testes:
 
-* `extract_simples.ipynb` → leitura sequencial dos Sheets
-* `paralelo.ipynb` → leitura paralela dos Sheets
+* `seq_vs_paralel.ipynb` → leitura sequencial vs paralela dos Sheets
+
 
 ---
 
