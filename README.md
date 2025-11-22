@@ -10,12 +10,18 @@ Este projeto demonstra como **gerar tabelas fake**, **enviar para o Google Drive
 # 🚀 Guia Rápido (Fast Track)
 
 ```bash
-# 1. Gerar 48 tabelas fake
+# 0 . Dependências
+uv sync
+```
+```bash
+# 1. Gerar 48 tabelas fake, com 1500 linhas cada e salvá-las na pasta data. Altere conforme desejar
 uv run src/gerar_tabelas.py --tabelas 48 --linhas 1500 --destino data
-
+```
+```bash
 # 2. Converter CSVs em Google Sheets e enviar para o Drive
 uv run src/enviar_para_pasta_no_drive.py
-
+```
+```bash
 # 3. Listar os Sheets enviados para o Drive
 uv run src/listar_planilhas.py
 ```
