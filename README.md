@@ -36,7 +36,7 @@ Ideal para estudos, automação e testes de benchmarks com APIs do Google.
 
 # 🚀 **Guia Rápido (Fast Track)**
 
-### **0. Clonar Repo e Instalar dependências**
+### **0. Clonar Repo e Instalar dependências. Se não sabe o que é "UV", vá para a Slow Track**
 ```bash
 git clone https://github.com/analystihas/ler_sheets_em_paralelo.git
 cd ler_sheets_em_paralelo
@@ -75,7 +75,7 @@ uv run src/listar_planilhas.py
 
 ---
 
-# 📦 **Dependências e Ambiente**
+# 📦 **Dependências e Ambiente (Slow Track)**
 
 O projeto utiliza **uv** como gerenciador de ambiente e dependências.
 
